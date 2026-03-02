@@ -1,1 +1,1 @@
-- Stock Dex is a platform where you can search stock tickers to directly return Cards of the stock containing details about the company.
+- Stock Boox is a platform where you can search stock tickers to directly return Cards of the stock containing details about the company.
